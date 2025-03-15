@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatConnect</string>
+    <string name="title">ChatConnect</string>
+    <string name="hidtory">Chat history</string>
+    <string name="chatroom">Chat room :</string>
+    <string name="startChat">Start chat</string>
+</resources>
